@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/
+runs/
+*.pt
+.pytest_cache/
+benchmarks/level2/trace_*.json
